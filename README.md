@@ -1,3 +1,5 @@
+### THIS IS A MESSY WORK IN PROGRESS! LOTS OF DEFAULT VALUES AND GARBAGE AHEAD!
+
 ![Lixie Library](http://i.imgur.com/IzgIYfg.jpg)
 
 # Library for driving Lixie edge-lit displays!
